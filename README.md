@@ -6,8 +6,5 @@ esta branch foi criada por Talles
 
 Hello World
 
-## tratando conflitos
-resolvendo123
-
 esta branch foi criada por Talles
 hehehe alterei aqui by pedro
